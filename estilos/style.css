@@ -169,7 +169,7 @@ main > article > p > span > a::after{
 
 footer{
     background-image: linear-gradient(to right, var(--cor1), var(--cor2));
-    color: white;
+    color: var(--cor5);
     font-family: var(--fonte-padrao);
     padding: 10px;
     text-align: center;
